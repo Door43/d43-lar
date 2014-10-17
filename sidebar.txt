@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lar:home|Door43 (lar)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lar|d43-lar repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lar/archive/master.zip|d43-lar.zip]]
+
+**Recent Changes**
+{{changes>ns = lar}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lar|Ethnologue data]]
+
